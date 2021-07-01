@@ -32,7 +32,7 @@
 #SBATCH --time=00:00:10
 
 # Indicate which account use
-#SBATCH -A ac560tp
+#SBATCH -A tra210016p
 
 # Echo commands to stdout 
 set -x
